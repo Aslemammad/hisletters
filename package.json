@@ -12,8 +12,5 @@
   "license": "ISC",
   "devDependencies": {
     "tsx": "^4.17.0"
-  },
-  "dependencies": {
-    "internetarchive-sdk-js": "^1.0.37"
   }
 }
